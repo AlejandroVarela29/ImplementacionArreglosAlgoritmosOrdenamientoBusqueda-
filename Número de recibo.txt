@@ -1,0 +1,9 @@
+Número de recibo
+• Número de inscripción
+• Nombres y apellidos
+• Número de carnet
+• Carrera
+• Turno
+• Plan de estudio
+• Semestre
+• Fecha de matrícula
